@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vetores media de numeros", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vogal ou Consoante", "Vogal ou Consoante\Vogal ou Consoante\Vogal ou Consoante.csproj", "{9791BB81-B892-4444-88B6-9BFA48C26F76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proximo_ex", "proximo_ex\proximo_ex.csproj", "{16E28F0F-56C8-4719-A53F-3580C3D7E1B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{9791BB81-B892-4444-88B6-9BFA48C26F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9791BB81-B892-4444-88B6-9BFA48C26F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9791BB81-B892-4444-88B6-9BFA48C26F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E28F0F-56C8-4719-A53F-3580C3D7E1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E28F0F-56C8-4719-A53F-3580C3D7E1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E28F0F-56C8-4719-A53F-3580C3D7E1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E28F0F-56C8-4719-A53F-3580C3D7E1B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
