@@ -15,23 +15,27 @@ namespace Triângulo
             Console.WriteLine("digite o terceiro lado");
             lado3 = Convert.ToDouble(Console.ReadLine());
 
-            //(lado1 - lado2) < lado3 < (lado2 + lado1);
+            var triangulo = (lado1 < lado2 + lado3) && (lado2 < lado1 + lado3) && (lado3 < lado1 + lado2);
 
-
-            if(lado1 == lado2 && lado1 == lado3)
+            if (triangulo)
+            {
+            if (lado1 == lado2 && lado1 == lado3)
             {
                 Console.WriteLine("O triângulo é equilátero");
             }
-            if(lado1 == lado2 || lado1 == lado3 || lado2 == lado3)
+            if (lado1 == lado2 || lado1 == lado3 || lado2 == lado3)
             {
                 Console.WriteLine("O triângulo é isóceles");
             }
-            if( lado1 != lado2 && lado1 != lado3 && lado2 != lado3)
+            if (lado1 != lado2 && lado1 != lado3 && lado2 != lado3)
             {
                 Console.WriteLine("O triângulo é escaleno");
             }
-                
-                        
+                else
+                {
+                    Console.WriteLine("Não é um triângulo");
+                }
+            }
         }
-    }
+    }   
 }
