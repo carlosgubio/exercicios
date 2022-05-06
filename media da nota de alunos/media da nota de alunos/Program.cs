@@ -7,17 +7,18 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-            int[] nota = new int[10];
+            int[] nota = new int[3];
             int soma = nota[0];
             int media;
             int menor = 10;
             int maior = 0;
             int i = 0;
-                       
+            int contador = 0;          
            
             while (i < nota.Length)
             {
-                Console.WriteLine("Introduza a nota do aluno");
+                contador++;
+                Console.WriteLine("Introduza a " + contador + "° nota do aluno");
                 nota[i] = Convert.ToInt32(Console.ReadLine());
                 soma = soma + nota[i];
                

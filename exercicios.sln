@@ -3,43 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3", "3\3\3.csproj", "{0F288F28-0248-4357-8F2D-8FC141309CE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maior ou menor de idade", "3\3\Maior ou menor de idade.csproj", "{0F288F28-0248-4357-8F2D-8FC141309CE6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ano Bissexto", "Ano Bissexto\Ano Bissexto\Ano Bissexto.csproj", "{F7E2E798-85A5-47C7-AF68-DF59A85267F8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\Calculadora\Calculadora.csproj", "{E7C2BFC0-2ADC-4373-B7A2-82EAE59AA11B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculo Triângulo", "Calculo Triângulo\Calculo Triângulo\Calculo Triângulo.csproj", "{F6E526EF-1D29-4F8E-ACC5-F3BB1A6774A4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equação", "Equação\Equação\Equação.csproj", "{4F2191C4-E2D6-4667-A6F7-08DF51FB4432}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMC", "IMC\IMC\IMC.csproj", "{23F6B255-86CB-45A5-A6CB-A04924AA2D34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cálculo do IMC", "IMC\IMC\Cálculo do IMC.csproj", "{23F6B255-86CB-45A5-A6CB-A04924AA2D34}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista 1", "Lista 1\Lista 1\Lista 1.csproj", "{8F1C6FC8-0253-4E36-8ADA-C047355ECE38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reajuste Salarial", "Lista 1\Lista 1\Reajuste Salarial.csproj", "{8F1C6FC8-0253-4E36-8ADA-C047355ECE38}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "media da nota de alunos", "media da nota de alunos\media da nota de alunos\media da nota de alunos.csproj", "{6A9F4509-BA26-4756-B52D-8C75A9789C4E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nota de alunos", "nota de alunos\nota de alunos\nota de alunos.csproj", "{A1BB7B77-F5D1-485B-A2D1-FE8236614E05}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numero indefinido de entrada", "Numero indefinido de entrada\Numero indefinido de entrada\Numero indefinido de entrada.csproj", "{1FBF9BBE-BC65-4389-A96E-98AFBC3B928D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Média de nota de alunos", "nota de alunos\nota de alunos\Média de nota de alunos.csproj", "{A1BB7B77-F5D1-485B-A2D1-FE8236614E05}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordem crescente", "Ordem crescente\Ordem crescente\Ordem crescente.csproj", "{AEC01DCD-1926-4EDA-895C-2771D66FC9C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taboada", "taboada\taboada\taboada.csproj", "{7C3B0B07-A8D9-439F-9B8E-29A99315BEF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taboada", "taboada\taboada\Taboada.csproj", "{7C3B0B07-A8D9-439F-9B8E-29A99315BEF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores - Intercalar caracteres", "Vetores - Intercalar caracteres\Vetores - Intercalar caracteres\Vetores - Intercalar caracteres.csproj", "{684E1B7D-2950-4D35-A14A-342A2DE80552}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intercalar Caracteres", "Vetores - Intercalar caracteres\Vetores - Intercalar caracteres\Intercalar Caracteres.csproj", "{684E1B7D-2950-4D35-A14A-342A2DE80552}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores Elementos repetidos", "Vetores Elementos repetidos\Vetores Elementos repetidos\Vetores Elementos repetidos.csproj", "{5F105B52-1576-49A2-AF78-FC0377F91FCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elementos repetidos", "Vetores Elementos repetidos\Vetores Elementos repetidos\Elementos repetidos.csproj", "{5F105B52-1576-49A2-AF78-FC0377F91FCE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores media de entrada de números", "Vetores media de entrada de números\Vetores media de entrada de números\Vetores media de entrada de números.csproj", "{0C7C2271-C5AE-4A7A-876F-29A27A22FFBD}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vetores media de numeros", "vetores media de numeros\vetores media de numeros\vetores media de numeros.csproj", "{7B3811C4-0C8B-41F0-A30B-C7A2C0AF55FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media de entrada de números", "Vetores media de entrada de números\Vetores media de entrada de números\Media de entrada de números.csproj", "{0C7C2271-C5AE-4A7A-876F-29A27A22FFBD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vogal ou Consoante", "Vogal ou Consoante\Vogal ou Consoante\Vogal ou Consoante.csproj", "{9791BB81-B892-4444-88B6-9BFA48C26F76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetor - valor do produto", "Vetor - valor do produto\Vetor - valor do produto.csproj", "{693AAAC3-EF40-4FCC-B5EB-19612909F05F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valor do produto", "Vetor - valor do produto\Valor do produto.csproj", "{693AAAC3-EF40-4FCC-B5EB-19612909F05F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetor - Transação bancária", "Vetor - Transação bancária\Vetor - Transação bancária.csproj", "{6E598DAE-2B18-4DBB-8049-BA9F32DF3B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transação bancária", "Vetor - Transação bancária\Transação bancária.csproj", "{6E598DAE-2B18-4DBB-8049-BA9F32DF3B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triângulo", "Triângulo\Triângulo.csproj", "{6F0D0343-EF34-4C7E-927F-5C4C907E9343}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +55,6 @@ Global
 		{E7C2BFC0-2ADC-4373-B7A2-82EAE59AA11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C2BFC0-2ADC-4373-B7A2-82EAE59AA11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C2BFC0-2ADC-4373-B7A2-82EAE59AA11B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6E526EF-1D29-4F8E-ACC5-F3BB1A6774A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6E526EF-1D29-4F8E-ACC5-F3BB1A6774A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6E526EF-1D29-4F8E-ACC5-F3BB1A6774A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6E526EF-1D29-4F8E-ACC5-F3BB1A6774A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4F2191C4-E2D6-4667-A6F7-08DF51FB4432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4F2191C4-E2D6-4667-A6F7-08DF51FB4432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F2191C4-E2D6-4667-A6F7-08DF51FB4432}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -83,10 +75,6 @@ Global
 		{A1BB7B77-F5D1-485B-A2D1-FE8236614E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1BB7B77-F5D1-485B-A2D1-FE8236614E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1BB7B77-F5D1-485B-A2D1-FE8236614E05}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1FBF9BBE-BC65-4389-A96E-98AFBC3B928D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FBF9BBE-BC65-4389-A96E-98AFBC3B928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FBF9BBE-BC65-4389-A96E-98AFBC3B928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FBF9BBE-BC65-4389-A96E-98AFBC3B928D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AEC01DCD-1926-4EDA-895C-2771D66FC9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AEC01DCD-1926-4EDA-895C-2771D66FC9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEC01DCD-1926-4EDA-895C-2771D66FC9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -107,10 +95,6 @@ Global
 		{0C7C2271-C5AE-4A7A-876F-29A27A22FFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C7C2271-C5AE-4A7A-876F-29A27A22FFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C7C2271-C5AE-4A7A-876F-29A27A22FFBD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B3811C4-0C8B-41F0-A30B-C7A2C0AF55FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B3811C4-0C8B-41F0-A30B-C7A2C0AF55FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B3811C4-0C8B-41F0-A30B-C7A2C0AF55FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B3811C4-0C8B-41F0-A30B-C7A2C0AF55FB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9791BB81-B892-4444-88B6-9BFA48C26F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9791BB81-B892-4444-88B6-9BFA48C26F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9791BB81-B892-4444-88B6-9BFA48C26F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -123,6 +107,10 @@ Global
 		{6E598DAE-2B18-4DBB-8049-BA9F32DF3B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E598DAE-2B18-4DBB-8049-BA9F32DF3B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E598DAE-2B18-4DBB-8049-BA9F32DF3B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0D0343-EF34-4C7E-927F-5C4C907E9343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0D0343-EF34-4C7E-927F-5C4C907E9343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0D0343-EF34-4C7E-927F-5C4C907E9343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0D0343-EF34-4C7E-927F-5C4C907E9343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
