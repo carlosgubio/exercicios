@@ -1,0 +1,13 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\bin\Debug\netcoreapp3.1\Transação bancária.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\bin\Debug\netcoreapp3.1\Transação bancária.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\bin\Debug\netcoreapp3.1\Transação bancária.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\bin\Debug\netcoreapp3.1\Transação bancária.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\bin\Debug\netcoreapp3.1\Transação bancária.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\bin\Debug\netcoreapp3.1\Transação bancária.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.genruntimeconfig.cache

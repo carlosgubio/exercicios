@@ -1,0 +1,13 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\bin\Debug\netcoreapp3.1\Media de entrada de números.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\bin\Debug\netcoreapp3.1\Media de entrada de números.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\bin\Debug\netcoreapp3.1\Media de entrada de números.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\bin\Debug\netcoreapp3.1\Media de entrada de números.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\bin\Debug\netcoreapp3.1\Media de entrada de números.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\bin\Debug\netcoreapp3.1\Media de entrada de números.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\obj\Debug\netcoreapp3.1\Media de entrada de números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\obj\Debug\netcoreapp3.1\Media de entrada de números.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\obj\Debug\netcoreapp3.1\Media de entrada de números.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\obj\Debug\netcoreapp3.1\Media de entrada de números.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\obj\Debug\netcoreapp3.1\Media de entrada de números.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\obj\Debug\netcoreapp3.1\Media de entrada de números.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetores media de entrada de números\Vetores media de entrada de números\obj\Debug\netcoreapp3.1\Media de entrada de números.genruntimeconfig.cache
