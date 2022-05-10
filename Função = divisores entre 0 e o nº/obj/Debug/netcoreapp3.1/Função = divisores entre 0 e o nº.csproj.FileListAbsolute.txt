@@ -1,0 +1,4 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\bin\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\bin\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\bin\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\bin\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\bin\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\bin\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.genruntimeconfig.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função - Array 10 posições = maior valor\obj\Debug\netcoreapp3.1\Função - Array 10 posições = maior valor.csproj.AssemblyReference.cache

@@ -35,7 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valor do produto", "Vetor -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transação bancária", "Vetor - Transação bancária\Transação bancária.csproj", "{6E598DAE-2B18-4DBB-8049-BA9F32DF3B88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triângulo", "Triângulo\Triângulo.csproj", "{6F0D0343-EF34-4C7E-927F-5C4C907E9343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triângulo", "Triângulo\Triângulo.csproj", "{6F0D0343-EF34-4C7E-927F-5C4C907E9343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Função - Calculadora", "Função - Calculadora\Função - Calculadora.csproj", "{7AB0D874-C325-4125-B570-490DED0FD1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Função - Array 10 posições = maior valor", "Função - Array 10 posições = maior valor\Função - Array 10 posições = maior valor.csproj", "{144B4E6E-C0CF-44FC-A550-BAA36D33F06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Função = divisores entre 0 e o nº", "Função = divisores entre 0 e o nº\Função = divisores entre 0 e o nº.csproj", "{1FCF87ED-D815-4677-8784-8BA0E715B7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Função tipo bool que passaram", "Função tipo bool que passaram\Função tipo bool que passaram.csproj", "{4857B40F-8E50-4812-93F1-1C3A64136F0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +119,22 @@ Global
 		{6F0D0343-EF34-4C7E-927F-5C4C907E9343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F0D0343-EF34-4C7E-927F-5C4C907E9343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F0D0343-EF34-4C7E-927F-5C4C907E9343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB0D874-C325-4125-B570-490DED0FD1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB0D874-C325-4125-B570-490DED0FD1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB0D874-C325-4125-B570-490DED0FD1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB0D874-C325-4125-B570-490DED0FD1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144B4E6E-C0CF-44FC-A550-BAA36D33F06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144B4E6E-C0CF-44FC-A550-BAA36D33F06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144B4E6E-C0CF-44FC-A550-BAA36D33F06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144B4E6E-C0CF-44FC-A550-BAA36D33F06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCF87ED-D815-4677-8784-8BA0E715B7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCF87ED-D815-4677-8784-8BA0E715B7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCF87ED-D815-4677-8784-8BA0E715B7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCF87ED-D815-4677-8784-8BA0E715B7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4857B40F-8E50-4812-93F1-1C3A64136F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4857B40F-8E50-4812-93F1-1C3A64136F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4857B40F-8E50-4812-93F1-1C3A64136F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4857B40F-8E50-4812-93F1-1C3A64136F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
