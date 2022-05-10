@@ -2,3 +2,17 @@ C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = d
 C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.AssemblyInfoInputs.cache
 C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.AssemblyInfo.cs
 C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.exe
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.deps.json
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.runtimeconfig.json
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.dll
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.pdb
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.dll
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.pdb
+C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.genruntimeconfig.cache
