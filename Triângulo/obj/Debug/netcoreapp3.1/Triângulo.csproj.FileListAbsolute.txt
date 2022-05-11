@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.genruntimeconfig.cache

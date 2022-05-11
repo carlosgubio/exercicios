@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\bin\Debug\netcoreapp3.1\Função tipo bool que passaram.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\bin\Debug\netcoreapp3.1\Função tipo bool que passaram.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\bin\Debug\netcoreapp3.1\Função tipo bool que passaram.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\bin\Debug\netcoreapp3.1\Função tipo bool que passaram.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\bin\Debug\netcoreapp3.1\Função tipo bool que passaram.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\bin\Debug\netcoreapp3.1\Função tipo bool que passaram.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função tipo bool que passaram\obj\Debug\netcoreapp3.1\Função tipo bool que passaram.genruntimeconfig.cache

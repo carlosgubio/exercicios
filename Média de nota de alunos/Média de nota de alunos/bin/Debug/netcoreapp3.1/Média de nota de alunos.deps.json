@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Média de nota de alunos/1.0.0": {
+        "runtime": {
+          "Média de nota de alunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Média de nota de alunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

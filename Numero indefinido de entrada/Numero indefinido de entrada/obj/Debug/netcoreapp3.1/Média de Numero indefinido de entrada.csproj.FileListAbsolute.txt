@@ -1,0 +1,13 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\bin\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\bin\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\bin\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\bin\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\bin\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\bin\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\obj\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\obj\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\obj\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\obj\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\obj\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\obj\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Numero indefinido de entrada\Numero indefinido de entrada\obj\Debug\netcoreapp3.1\Média de Numero indefinido de entrada.genruntimeconfig.cache

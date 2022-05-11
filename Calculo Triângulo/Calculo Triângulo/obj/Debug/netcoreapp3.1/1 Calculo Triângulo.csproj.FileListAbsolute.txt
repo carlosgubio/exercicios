@@ -1,0 +1,5 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Calculo Triângulo\Calculo Triângulo\obj\Debug\netcoreapp3.1\1 Calculo Triângulo.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Calculo Triângulo\Calculo Triângulo\obj\Debug\netcoreapp3.1\1 Calculo Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Calculo Triângulo\Calculo Triângulo\obj\Debug\netcoreapp3.1\1 Calculo Triângulo.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Calculo Triângulo\Calculo Triângulo\obj\Debug\netcoreapp3.1\1 Calculo Triângulo.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Calculo Triângulo\Calculo Triângulo\obj\Debug\netcoreapp3.1\1 Calculo Triângulo.csproj.CoreCompileInputs.cache

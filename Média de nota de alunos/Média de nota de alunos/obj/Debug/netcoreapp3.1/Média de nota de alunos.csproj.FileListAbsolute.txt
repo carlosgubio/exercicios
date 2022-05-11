@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\bin\Debug\netcoreapp3.1\Média de nota de alunos.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\bin\Debug\netcoreapp3.1\Média de nota de alunos.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\bin\Debug\netcoreapp3.1\Média de nota de alunos.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\bin\Debug\netcoreapp3.1\Média de nota de alunos.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\bin\Debug\netcoreapp3.1\Média de nota de alunos.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\bin\Debug\netcoreapp3.1\Média de nota de alunos.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\nota de alunos\nota de alunos\obj\Debug\netcoreapp3.1\Média de nota de alunos.genruntimeconfig.cache
