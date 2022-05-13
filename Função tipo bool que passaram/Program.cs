@@ -7,7 +7,14 @@ namespace Função_tipo_bool_que_passaram
         static void Main(string[] args)
         {
             int[] nota = ArrayNota();
-                       
+            bool[] retornar = CompararNota(nota);
+            mostrarNota(nota, retornar);
+
+            //for (int i = 0; i < retornar.Length; i++)
+            //{
+            //    Console.WriteLine($"Nota: {retornar[i]} {nota[i]}");
+            //}
+
         }
         static int[] ArrayNota()
         {
@@ -22,19 +29,26 @@ namespace Função_tipo_bool_que_passaram
             }
             return nota;
         }
-        static int CompararNota(nota)
+        static bool[] CompararNota(int[] nota)
         {
-            int[] Nota = new int[10];
-            bool aprovado, reprovado;
-            int retorno;
+            bool aprovado;
+            //int retorno;
+            bool[] retornar = new bool[10];
 
-            for (int i = 0; i < nota.Length; i++)
+            for (int i = 0; i < retornar.Length; i++)
             {
-                aprovado = Nota[i] >= 7;
-                reprovado = Nota[i] < 7;
+                //retorno = nota[i];
+                aprovado = nota[i] >= 7;
+                retornar[i] = aprovado;
             }
-            retorno = Nota[];
-            return Console.WriteLine(retorno);
+            return retornar;
+        }
+        static void mostrarNota(int[] nota, bool[] retornar)
+        {
+            for (int i = 0; i < retornar.Length; i++)
+            {
+                Console.WriteLine($"Nota: {retornar[i]} {nota[i]}");
+            }
         }
     }
 
