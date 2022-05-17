@@ -11,3 +11,4 @@ C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Tran
 C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.dll
 C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.pdb
 C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.genruntimeconfig.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Vetor - Transação bancária\obj\Debug\netcoreapp3.1\Transação bancária.csproj.AssemblyReference.cache

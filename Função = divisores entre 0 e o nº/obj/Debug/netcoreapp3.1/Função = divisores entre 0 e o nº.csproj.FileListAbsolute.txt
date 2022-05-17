@@ -16,3 +16,13 @@ C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj
 C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.dll
 C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.pdb
 C:\Users\Carlos\source\repos\Nova pasta\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.genruntimeconfig.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.exe
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.deps.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\bin\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.dll
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.pdb
+C:\Users\carlos.moreira1\source\repos\exercicios_modulo1\exercicios\Função = divisores entre 0 e o nº\obj\Debug\netcoreapp3.1\Função = divisores entre 0 e o nº.genruntimeconfig.cache

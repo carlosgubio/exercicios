@@ -6,24 +6,38 @@ namespace Função___divisores_entre_0_e_o_nº
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Insira um número para saber seus divisores entre 0 e ele mesmo.");
+            Console.WriteLine("Insira um número para saber seus divisores.");
             int num = Convert.ToInt32(Console.ReadLine());
-        }
+            int[] divisor = numdivisor(num);
 
-        static int divisor(int num)
-        {
-           
-            int divisao = 0;
-
-            while (num >= 0)
+            for (int i = 0; i < divisor.Length; i++)
             {
-                divisao = num / num;
-                Console.WriteLine("o resultado é:" + divisao);
+                if (divisor[1] != 0)
+                {
+                    Console.WriteLine($"O divisor de {num} é {divisor[i]}");
+                }
             }
-            return num;
-         
-
-
         }
+
+        static int[] numdivisor(int num)
+        {
+            int divisor, contador = 1;
+            int[] divisor1 = new int[num];
+            int[] divisor2 = new int[num];
+
+            for (int i = 0; i < divisor1.Length; i++)
+            {
+                divisor1[i] = i;
+                divisor = num % contador;
+
+                if (divisor == 0)
+                {
+                    divisor2[i] = contador;
+                }
+                contador++;
+            }
+            return divisor2;
+        }
+
     }
 }
