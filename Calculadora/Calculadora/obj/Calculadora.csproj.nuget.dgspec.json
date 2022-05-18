@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.moreira1\\source\\repos\\exercicios_modulo1\\exercicios\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\carlos.moreira1\\Source\\Repos\\entra21\\Calculadora\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.moreira1\\source\\repos\\exercicios_modulo1\\exercicios\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\carlos.moreira1\\Source\\Repos\\entra21\\Calculadora\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.moreira1\\source\\repos\\exercicios_modulo1\\exercicios\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.moreira1\\Source\\Repos\\entra21\\Calculadora\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\carlos.moreira1\\source\\repos\\exercicios_modulo1\\exercicios\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\carlos.moreira1\\Source\\Repos\\entra21\\Calculadora\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\carlos.moreira1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.moreira1\\source\\repos\\exercicios_modulo1\\exercicios\\Calculadora\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\carlos.moreira1\\Source\\Repos\\entra21\\Calculadora\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

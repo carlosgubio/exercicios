@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Array de 10 posições em ordem inversa/1.0.0": {
+        "runtime": {
+          "Array de 10 posições em ordem inversa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array de 10 posições em ordem inversa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
