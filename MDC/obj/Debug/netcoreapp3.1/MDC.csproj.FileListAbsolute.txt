@@ -11,3 +11,9 @@ C:\Users\carlos.moreira1\Source\Repos\19.05\MDC\obj\Debug\netcoreapp3.1\MDC.cspr
 C:\Users\carlos.moreira1\Source\Repos\19.05\MDC\obj\Debug\netcoreapp3.1\MDC.dll
 C:\Users\carlos.moreira1\Source\Repos\19.05\MDC\obj\Debug\netcoreapp3.1\MDC.pdb
 C:\Users\carlos.moreira1\Source\Repos\19.05\MDC\obj\Debug\netcoreapp3.1\MDC.genruntimeconfig.cache
+C:\Users\carlos.moreira1\Source\Repos\exercicios1\MDC\obj\Debug\netcoreapp3.1\MDC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\Source\Repos\exercicios1\MDC\obj\Debug\netcoreapp3.1\MDC.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\Source\Repos\exercicios1\MDC\obj\Debug\netcoreapp3.1\MDC.AssemblyInfo.cs
+C:\Users\carlos.moreira1\Source\Repos\exercicios1\MDC\obj\Debug\netcoreapp3.1\MDC.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\Source\Repos\exercicios1\MDC\obj\Debug\netcoreapp3.1\MDC.dll
+C:\Users\carlos.moreira1\Source\Repos\exercicios1\MDC\obj\Debug\netcoreapp3.1\MDC.pdb
