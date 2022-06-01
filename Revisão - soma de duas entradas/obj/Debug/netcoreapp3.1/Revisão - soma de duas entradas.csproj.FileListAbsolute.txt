@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\bin\Debug\netcoreapp3.1\Revisão - soma de duas entradas.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\bin\Debug\netcoreapp3.1\Revisão - soma de duas entradas.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\bin\Debug\netcoreapp3.1\Revisão - soma de duas entradas.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\bin\Debug\netcoreapp3.1\Revisão - soma de duas entradas.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\bin\Debug\netcoreapp3.1\Revisão - soma de duas entradas.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\bin\Debug\netcoreapp3.1\Revisão - soma de duas entradas.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - soma de duas entradas\obj\Debug\netcoreapp3.1\Revisão - soma de duas entradas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\bin\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\bin\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\bin\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\bin\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\bin\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\bin\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\obj\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\obj\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\obj\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\obj\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\obj\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\obj\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Maior valor entre 2 entradas\obj\Debug\netcoreapp3.1\Revisão - Maior valor entre 2 entradas.genruntimeconfig.cache

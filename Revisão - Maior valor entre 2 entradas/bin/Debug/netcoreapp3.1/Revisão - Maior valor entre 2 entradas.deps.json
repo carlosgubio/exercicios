@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Revisão - Maior valor entre 2 entradas/1.0.0": {
+        "runtime": {
+          "Revisão - Maior valor entre 2 entradas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisão - Maior valor entre 2 entradas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

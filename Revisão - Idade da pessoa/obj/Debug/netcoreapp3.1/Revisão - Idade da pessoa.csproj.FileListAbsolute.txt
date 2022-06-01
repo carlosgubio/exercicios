@@ -1,0 +1,13 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\bin\Debug\netcoreapp3.1\Revisão - Idade da pessoa.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\bin\Debug\netcoreapp3.1\Revisão - Idade da pessoa.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\bin\Debug\netcoreapp3.1\Revisão - Idade da pessoa.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\bin\Debug\netcoreapp3.1\Revisão - Idade da pessoa.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\bin\Debug\netcoreapp3.1\Revisão - Idade da pessoa.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\bin\Debug\netcoreapp3.1\Revisão - Idade da pessoa.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\obj\Debug\netcoreapp3.1\Revisão - Idade da pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\obj\Debug\netcoreapp3.1\Revisão - Idade da pessoa.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\obj\Debug\netcoreapp3.1\Revisão - Idade da pessoa.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\obj\Debug\netcoreapp3.1\Revisão - Idade da pessoa.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\obj\Debug\netcoreapp3.1\Revisão - Idade da pessoa.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\obj\Debug\netcoreapp3.1\Revisão - Idade da pessoa.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Idade da pessoa\obj\Debug\netcoreapp3.1\Revisão - Idade da pessoa.genruntimeconfig.cache

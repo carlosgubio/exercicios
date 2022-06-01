@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\bin\Debug\netcoreapp3.1\Revisão - Equação.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\bin\Debug\netcoreapp3.1\Revisão - Equação.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\bin\Debug\netcoreapp3.1\Revisão - Equação.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\bin\Debug\netcoreapp3.1\Revisão - Equação.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\bin\Debug\netcoreapp3.1\Revisão - Equação.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\bin\Debug\netcoreapp3.1\Revisão - Equação.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Equação\obj\Debug\netcoreapp3.1\Revisão - Equação.genruntimeconfig.cache
