@@ -53,13 +53,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jogo de adivinhar o número
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MDC", "MDC\MDC.csproj", "{7066BEF5-95E4-4ACE-BD2E-433550C2691E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - soma de duas entradas", "Revisão - soma de duas entradas\Revisão - soma de duas entradas.csproj", "{636B9940-C180-456D-897A-177692403400}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - soma de duas entradas", "Revisão - soma de duas entradas\Revisão - soma de duas entradas.csproj", "{636B9940-C180-456D-897A-177692403400}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - Maior valor entre 2 entradas", "Revisão - Maior valor entre 2 entradas\Revisão - Maior valor entre 2 entradas.csproj", "{07B2DA29-FEE8-40B2-9C2C-ECF12E3BAAA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - Maior valor entre 2 entradas", "Revisão - Maior valor entre 2 entradas\Revisão - Maior valor entre 2 entradas.csproj", "{07B2DA29-FEE8-40B2-9C2C-ECF12E3BAAA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - Idade da pessoa", "Revisão - Idade da pessoa\Revisão - Idade da pessoa.csproj", "{28305FA4-5EA8-458D-BD34-A092AD001411}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - Idade da pessoa", "Revisão - Idade da pessoa\Revisão - Idade da pessoa.csproj", "{28305FA4-5EA8-458D-BD34-A092AD001411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - Equação", "Revisão - Equação\Revisão - Equação.csproj", "{1DA52DD2-C3DE-42FC-98DB-89D043469A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - Equação", "Revisão - Equação\Revisão - Equação.csproj", "{1DA52DD2-C3DE-42FC-98DB-89D043469A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão dobro de 5 entradas", "Revisão dobro de 5 entradas\Revisão dobro de 5 entradas.csproj", "{1AD535DC-004C-42AF-9995-2BB9AE39BAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - 7 entradas atribuidas em outro vetor", "Revisão - 7 entradas atribuidas em outro vetor\Revisão - 7 entradas atribuidas em outro vetor.csproj", "{FD25DC42-E058-448C-994A-EB04B3728E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - multiplicar cada posição pelo seu indice", "Revisão - multiplicar cada posição pelo seu indice\Revisão - multiplicar cada posição pelo seu indice.csproj", "{8E919575-7A81-4E2A-A85A-88137071E6C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +189,18 @@ Global
 		{1DA52DD2-C3DE-42FC-98DB-89D043469A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DA52DD2-C3DE-42FC-98DB-89D043469A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DA52DD2-C3DE-42FC-98DB-89D043469A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD535DC-004C-42AF-9995-2BB9AE39BAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD535DC-004C-42AF-9995-2BB9AE39BAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD535DC-004C-42AF-9995-2BB9AE39BAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD535DC-004C-42AF-9995-2BB9AE39BAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD25DC42-E058-448C-994A-EB04B3728E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD25DC42-E058-448C-994A-EB04B3728E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD25DC42-E058-448C-994A-EB04B3728E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD25DC42-E058-448C-994A-EB04B3728E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E919575-7A81-4E2A-A85A-88137071E6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E919575-7A81-4E2A-A85A-88137071E6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E919575-7A81-4E2A-A85A-88137071E6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E919575-7A81-4E2A-A85A-88137071E6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

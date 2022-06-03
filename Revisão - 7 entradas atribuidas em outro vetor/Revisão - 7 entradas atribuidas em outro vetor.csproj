@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Revisão___7_entradas_atribuidas_em_outro_vetor</RootNamespace>
+  </PropertyGroup>
+
+</Project>

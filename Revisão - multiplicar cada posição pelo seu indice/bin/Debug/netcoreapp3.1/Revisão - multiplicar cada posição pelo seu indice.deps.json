@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Revisão - multiplicar cada posição pelo seu indice/1.0.0": {
+        "runtime": {
+          "Revisão - multiplicar cada posição pelo seu indice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisão - multiplicar cada posição pelo seu indice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MMC"
   ],
-  "SelectedNode": "\\exercicios.sln",
+  "SelectedNode": "\\MMC\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\bin\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\bin\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\bin\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\bin\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\bin\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\bin\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - multiplicar cada posição pelo seu indice\obj\Debug\netcoreapp3.1\Revisão - multiplicar cada posição pelo seu indice.genruntimeconfig.cache

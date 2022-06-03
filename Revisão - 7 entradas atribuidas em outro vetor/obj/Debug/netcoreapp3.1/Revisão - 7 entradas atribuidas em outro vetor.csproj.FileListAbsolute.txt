@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\bin\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\bin\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\bin\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\bin\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\bin\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\bin\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - 7 entradas atribuidas em outro vetor\obj\Debug\netcoreapp3.1\Revisão - 7 entradas atribuidas em outro vetor.genruntimeconfig.cache
