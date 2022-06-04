@@ -1,0 +1,5 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Retornar o menor de 2 valores numa função\obj\Debug\netcoreapp3.1\Revisão - Retornar o menor de 2 valores numa função.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Retornar o menor de 2 valores numa função\obj\Debug\netcoreapp3.1\Revisão - Retornar o menor de 2 valores numa função.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Retornar o menor de 2 valores numa função\obj\Debug\netcoreapp3.1\Revisão - Retornar o menor de 2 valores numa função.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Retornar o menor de 2 valores numa função\obj\Debug\netcoreapp3.1\Revisão - Retornar o menor de 2 valores numa função.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - Retornar o menor de 2 valores numa função\obj\Debug\netcoreapp3.1\Revisão - Retornar o menor de 2 valores numa função.csproj.CoreCompileInputs.cache

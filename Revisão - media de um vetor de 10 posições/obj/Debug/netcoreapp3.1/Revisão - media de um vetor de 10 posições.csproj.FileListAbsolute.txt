@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\bin\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\bin\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\bin\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\bin\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\bin\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\bin\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - media de um vetor de 10 posições\obj\Debug\netcoreapp3.1\Revisão - media de um vetor de 10 posições.genruntimeconfig.cache

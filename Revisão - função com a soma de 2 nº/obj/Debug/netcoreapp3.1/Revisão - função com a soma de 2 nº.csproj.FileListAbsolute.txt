@@ -1,0 +1,14 @@
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\bin\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.exe
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\bin\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.deps.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\bin\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.runtimeconfig.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\bin\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.runtimeconfig.dev.json
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\bin\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\bin\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.csproj.AssemblyReference.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.AssemblyInfoInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.AssemblyInfo.cs
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.csproj.CoreCompileInputs.cache
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.dll
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.pdb
+C:\Users\carlos.moreira1\source\repos\exercícios\Revisão - função com a soma de 2 nº\obj\Debug\netcoreapp3.1\Revisão - função com a soma de 2 nº.genruntimeconfig.cache

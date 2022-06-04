@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Revisão - função com a soma de 2 nº/1.0.0": {
+        "runtime": {
+          "Revisão - função com a soma de 2 nº.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisão - função com a soma de 2 nº/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

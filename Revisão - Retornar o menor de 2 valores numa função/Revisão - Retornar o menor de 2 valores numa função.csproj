@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Revisão___Retornar_o_menor_de_2_valores_numa_função</RootNamespace>
+  </PropertyGroup>
+
+</Project>

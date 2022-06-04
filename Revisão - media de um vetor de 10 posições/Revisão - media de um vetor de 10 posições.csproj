@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Revisão___media_de_um_vetor_de_10_posições</RootNamespace>
+  </PropertyGroup>
+
+</Project>

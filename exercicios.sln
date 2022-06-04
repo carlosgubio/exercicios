@@ -61,11 +61,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - Idade da pessoa"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - Equação", "Revisão - Equação\Revisão - Equação.csproj", "{1DA52DD2-C3DE-42FC-98DB-89D043469A7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão dobro de 5 entradas", "Revisão dobro de 5 entradas\Revisão dobro de 5 entradas.csproj", "{1AD535DC-004C-42AF-9995-2BB9AE39BAED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão dobro de 5 entradas", "Revisão dobro de 5 entradas\Revisão dobro de 5 entradas.csproj", "{1AD535DC-004C-42AF-9995-2BB9AE39BAED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - 7 entradas atribuidas em outro vetor", "Revisão - 7 entradas atribuidas em outro vetor\Revisão - 7 entradas atribuidas em outro vetor.csproj", "{FD25DC42-E058-448C-994A-EB04B3728E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - 7 entradas atribuidas em outro vetor", "Revisão - 7 entradas atribuidas em outro vetor\Revisão - 7 entradas atribuidas em outro vetor.csproj", "{FD25DC42-E058-448C-994A-EB04B3728E7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - multiplicar cada posição pelo seu indice", "Revisão - multiplicar cada posição pelo seu indice\Revisão - multiplicar cada posição pelo seu indice.csproj", "{8E919575-7A81-4E2A-A85A-88137071E6C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisão - multiplicar cada posição pelo seu indice", "Revisão - multiplicar cada posição pelo seu indice\Revisão - multiplicar cada posição pelo seu indice.csproj", "{8E919575-7A81-4E2A-A85A-88137071E6C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - função com a soma de 2 nº", "Revisão - função com a soma de 2 nº\Revisão - função com a soma de 2 nº.csproj", "{2B0E2F26-87E9-4E9C-AE93-5C5393E61BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - media de um vetor de 10 posições", "Revisão - media de um vetor de 10 posições\Revisão - media de um vetor de 10 posições.csproj", "{9ED8CB37-443B-4538-9CD9-8024B5C8729E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisão - Retornar o menor de 2 valores numa função", "Revisão - Retornar o menor de 2 valores numa função\Revisão - Retornar o menor de 2 valores numa função.csproj", "{6B6494A9-A630-4DDF-A134-D48F4F79867B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +207,18 @@ Global
 		{8E919575-7A81-4E2A-A85A-88137071E6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E919575-7A81-4E2A-A85A-88137071E6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E919575-7A81-4E2A-A85A-88137071E6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0E2F26-87E9-4E9C-AE93-5C5393E61BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0E2F26-87E9-4E9C-AE93-5C5393E61BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0E2F26-87E9-4E9C-AE93-5C5393E61BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0E2F26-87E9-4E9C-AE93-5C5393E61BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED8CB37-443B-4538-9CD9-8024B5C8729E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED8CB37-443B-4538-9CD9-8024B5C8729E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED8CB37-443B-4538-9CD9-8024B5C8729E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED8CB37-443B-4538-9CD9-8024B5C8729E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6494A9-A630-4DDF-A134-D48F4F79867B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6494A9-A630-4DDF-A134-D48F4F79867B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6494A9-A630-4DDF-A134-D48F4F79867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6494A9-A630-4DDF-A134-D48F4F79867B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

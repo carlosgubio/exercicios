@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Revisão - media de um vetor de 10 posições/1.0.0": {
+        "runtime": {
+          "Revisão - media de um vetor de 10 posições.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisão - media de um vetor de 10 posições/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
